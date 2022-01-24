@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bruno Marra;
 - 👀 I’m interested in dev projects and Software Engineering;
 - 🌱 I’m currently learning Software Engineering and Analysis and systems development to become a better dev;
-- 💞️  I'm looking to collaborate on projects that make me evolve exponentially, colaborate with companies that need innovation and that also challenge me daily to transmit and absorb even more knowledge;
+- 💞️  I’m searching for oportunities to collaborate on projects that will make me evolve exponentially, colaborate with companies that need inovation and that also can challenge me daily to transmit and absorve even more knowledge;
 - 📫 Contact via email at: eng.brunomarra@gmail.com or Whatsapp: +55 (61) 9 9655-1935;
